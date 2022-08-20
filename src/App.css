@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+#mapOverlay {
+  z-index: 1;
+  position: absolute;
+}
